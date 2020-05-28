@@ -1,4 +1,6 @@
-<h2> Quiz-App </h2>
+<h1> Quiz-App </h1>
+
+<h4>  Screeshots </h4>
 
 <table>
 <tr>
@@ -12,3 +14,12 @@
 </tr>
   
 </table>
+
+### How to use 🔌
+1. Press the **Fork** button (top right the page) to save copy of this project on your account.
+
+2. Download the repository files (project) from the download section or clone this project by typing in the bash the following command:
+
+       git clone https://github.com/bhavya104/Quiz-App.git
+       
+3. Open any project folder in Android Studio, and done! 😃
